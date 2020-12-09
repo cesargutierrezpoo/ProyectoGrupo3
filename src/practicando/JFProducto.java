@@ -8,10 +8,7 @@ package practicando;
 import java.util.ArrayList;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author Victor Berrios
- */
+
 public class JFProducto extends javax.swing.JFrame {
     
     DefaultTableModel modelo = new DefaultTableModel();
