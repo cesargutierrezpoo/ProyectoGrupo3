@@ -8,10 +8,7 @@ package practicando;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author Victor Berrios
- */
+
 public class JFFactura extends javax.swing.JFrame {
     
      DefaultTableModel modelo = new DefaultTableModel();
