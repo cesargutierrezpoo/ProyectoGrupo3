@@ -5,10 +5,6 @@
  */
 package practicando;
 
-/**
- *
- * @author Victor Berrios
- */
 public class Calculos {
     
     public double calcularTotal(int cant, double precioUnit){
